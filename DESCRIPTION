@@ -1,6 +1,6 @@
 Package: blender
-Version: 0.1.1
-Date: March 19, 2012
+Version: 0.1.2
+Date: Fabruary 21, 2012
 Title: Analyze biotic homogenization of landscapes
 Author: David J. Harris <DavHarris@UCDavis.edu>
 Maintainer: David J. Harris <DavHarris@UCDavis.edu>
@@ -11,7 +11,8 @@ Description: Tools for assessing exotic species' contributions to
         "Occupancy is nine-tenths of the law," The American
         Naturalist). Also includes a randomization method for assessing
         sources of model error.
-License: GPL-2
-Packaged: 2012-03-19 21:24:35 UTC; Dave
+License: GPL-2 | Artistic-2.0
+Packaged: 2014-02-22 01:18:49 UTC; davidharris
 Repository: CRAN
-Date/Publication: 2012-03-20 05:52:49
+Date/Publication: 2014-02-22 07:54:07
+NeedsCompilation: no
